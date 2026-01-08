@@ -1,8 +1,8 @@
 {
 	"meta": {
-		"title": "YYsuni",
-		"description": "YYsuni 的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
-		"username": "Suni"
+		"title": "Philip的赛博小窝",
+		"description": "一个正在努力收敛的算法工程师。擅长定义 Loss，偶尔也能把精度调高。这里是我的数字后花园，欢迎常来除草。 (Algorithm Engineer in progress. Expert at defining Loss functions, occasionally improving accuracy. Welcome to my digital garden.)",
+		"username": "Philip Cao"
 	},
 	"theme": {
 		"colorBrand": "#de4331",
@@ -44,21 +44,14 @@
 		{
 			"id": "github",
 			"type": "github",
-			"value": "https://github.com/yysuni",
+			"value": "https://github.com/Philip-Cao-9527",
 			"label": "Github",
 			"order": 3
 		},
 		{
-			"id": "juejin",
-			"type": "juejin",
-			"value": "https://juejin.cn/user/2427311675422382",
-			"label": "稀土掘金",
-			"order": 2
-		},
-		{
 			"id": "email",
 			"type": "email",
-			"value": "yysuni1001@gmail.com",
+			"value": "caoyongshan70@gmail.com",
 			"label": "",
 			"order": 1
 		}
