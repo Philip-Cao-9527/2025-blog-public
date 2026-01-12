@@ -1,5 +1,14 @@
 [
   {
+    "slug": "unique_algo",
+    "title": "测试算法slug的代码bug",
+    "tags": [],
+    "date": "2026-01-12T23:15",
+    "summary": "",
+    "hidden": false,
+    "category": "代码实现"
+  },
+  {
     "slug": "算法唯一url",
     "title": "测试算法渲染",
     "tags": [
